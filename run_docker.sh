@@ -8,7 +8,7 @@ docker build --tag prj4:v1 .
 
 # Step 2: 
 # List docker images
-docker image list
+docker image ls
 
 # Step 3: 
 # Run flask app
