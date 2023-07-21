@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/KhoaiLuoc/UDAProject4/master.svg?style=svg)](https://app.circleci.com/pipelines/github/KhoaiLuoc/UDAProject4)
 # Project Overview [![CircleCI](https://dl.circleci.com/status-badge/img/gh/KhoaiLuoc/UDAProject4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KhoaiLuoc/UDAProject4/tree/master)
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
 
